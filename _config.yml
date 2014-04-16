@@ -1,6 +1,6 @@
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
@@ -8,12 +8,12 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Coder Coop
+tagline: Programming for Everyone
 author :
-  name : Name Lastname
+  name : Coder Coop
   email : blah@email.test
-  github : username
+  github : codercoop
   twitter : username
   feedburner : feedname
 

@@ -25,6 +25,7 @@
 
 /* post-full*/
 .post-full .date {
+  font-style: italic;
   margin-bottom: 20px;
   font-weight: bold; }
 

@@ -38,3 +38,12 @@ The documentation website at <http://jekyllbootstrap.com> is maintained at https
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
+
+
+
+
+
+
+Logo: http://www.openclipart.org/detail/166711/smiling-notebook-by-onsemeliot
+
+alternate: http://www.clker.com/clipart-10223.html
