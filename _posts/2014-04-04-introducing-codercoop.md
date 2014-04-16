@@ -6,12 +6,12 @@ category: announcements
 ---
 {% include JB/setup %}
 
-Coder Coop is a group dedicated to using technical skills for the public good. We develop free and open source software and share information to help each other learn. 
+Coder Coop is a group dedicated to using technology for public good. We develop free and open source software and share information to facilitate learning. 
 
 Everyone is encouraged to participate in our projects, to reuse our software and source code, and to share access to technology.
 
 ### Members
-Anyone can participate by contributing program code, by sharing their expertise, and by identifying technical goals that serve the public interest.
+Anyone can participate by contributing program code, by sharing their expertise, and by identifying goals that serve the public interest.
 
 ### Projects
 
