@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Coder Coop
+title: CoderCoop
 tagline: Programming for Everyone
 ---
 {% include JB/setup %}
