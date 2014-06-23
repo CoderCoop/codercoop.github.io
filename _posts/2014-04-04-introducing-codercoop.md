@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Introducing Coder Coop
+title: Introducing CoderCoop
 tagline: Programming for Everyone
 category: announcements
 ---
 {% include JB/setup %}
 
-Coder Coop is a group dedicated to using technology for public good. We develop free and open source software and share information to facilitate learning. 
+CoderCoop is a group dedicated to using technology for public good. We develop free and open source software and share information to facilitate learning. 
 
 Everyone is encouraged to participate in our projects, to reuse our software and source code, and to share access to technology.
 
