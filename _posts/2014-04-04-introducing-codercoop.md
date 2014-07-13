@@ -4,6 +4,7 @@ title: Introducing CoderCoop
 tagline: Programming for Everyone
 #category: announcements
 tags: announcements
+uuid: 4d161e54-6bfe-408f-b994-eab5608a72a6
 ---
 {% include JB/setup %}
 
